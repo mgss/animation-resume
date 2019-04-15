@@ -23,9 +23,17 @@ body {
 
 /* 我需要一点代码高亮 */
 
-.token.comment{color: #999;}
-.token.selector{ color: #77BE79; }
-.token.property{ color: #E06C75; }
+.token.comment{
+  color: #999;
+}
+
+.token.selector{ 
+  color: #77BE79; 
+}
+
+.token.property{ 
+  color: #E06C75;
+}
 
 /* 然后再加一个呼吸效果 */
 

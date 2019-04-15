@@ -1,0 +1,26 @@
+body {
+  color: black;
+}
+
+.token.comment{
+  color: black;
+}
+
+.token.selector{
+  color: black;
+}
+.token.property{
+  color: black;
+}
+.token.function{
+  color: black;
+}
+
+@keyframes breath{
+  0%{
+    box-shadow: 0 0 16px rgba(0,0,0, .6)
+  }
+  100%{
+    box-shadow: 0 0 16px rgba(0,0,0, .1)
+  }
+}
